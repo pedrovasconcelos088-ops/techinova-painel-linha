@@ -8,7 +8,7 @@ O **TechInova Painel de Linha** é uma solução desenvolvida para monitoramento
 
 * **Monitoramento em Tempo Real:** Exibição do status das linhas de produção (Em Operação, Parada, Manutenção).
 * **Métricas Principais:** Acompanhamento de metas diárias, volume produzido, refugos e indicadores de desempenho.
-* **Gestão de Paradas:** Registro visual de gargalos e motivos de interrupção na linha.
+* **Gestão de Paradas:** Registro visual de gargalos e motivos de interrupção na linha.kk
 * **Interface Responsiva:** Otimizada para exibição em TVs de chão de fábrica, monitores industriais e dispositivos móveis.
 
 ---
